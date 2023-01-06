@@ -1,2 +1,2 @@
 # kaxbot-discord
-a discord bot known as kaxbot
+a general purpose discord bot with ai capabilites known as kaxbot
